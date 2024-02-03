@@ -1,3 +1,5 @@
+import * as model from "./model/model"
+
 (function main() {
     // Llamá al método estático uploadNewBook(book: BookData) desde acá y creá nuevas pelis!
     // Imprimí los resultados en la terminal
